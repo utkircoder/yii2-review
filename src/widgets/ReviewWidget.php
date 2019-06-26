@@ -1,10 +1,10 @@
 <?php
 
 
-namespace common\modules\review\widgets;
+namespace whiteSuit\review\widgets;
 
 
-use common\components\DdHelper;
+
 use common\models\Advert;
 use common\models\Product;
 use common\modules\review\forms\ReviewForm;

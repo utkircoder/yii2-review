@@ -1,16 +1,15 @@
 <?php
 
 
-namespace common\modules\review\modules\admin\controllers;
+namespace whiteSuit\review\modules\admin\controllers;
 
 
-use common\components\DdHelper;
 use common\components\SessionFlash;
 use common\models\Cart;
 use common\models\Order;
-use common\modules\review\helpers\ReviewCalculateHelper;
-use common\modules\review\models\Reviews;
-use common\modules\review\searchModels\SearchReviews;
+use whiteSuit\review\helpers\ReviewCalculateHelper;
+use whiteSuit\review\models\Reviews;
+use whiteSuit\review\searchModels\SearchReviews;
 use Yii;
 use yii\data\ActiveDataProvider;
 use yii\web\Controller;

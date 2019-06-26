@@ -1,12 +1,12 @@
 <?php
 
-namespace common\modules\review\models;
+namespace whiteSuit\review\models;
 
-use common\helpers\ArrayHelper;
+use yii\helpers\ArrayHelper;
 use common\models\Advert;
 use common\models\Product;
 use common\models\User;
-use common\modules\review\behaviors\ReviewsModelBehavior;
+use whiteSuit\review\behaviors\ReviewsModelBehavior;
 use Yii;
 use yii\behaviors\TimestampBehavior;
 use yii\db\ActiveRecord;

@@ -2,9 +2,8 @@
 
 namespace  whiteSuit\review\models;
 
-use common\helpers\ArrayHelper;
+use yii\helpers\ArrayHelper;
 use common\models\Advert;
-use common\widgets\periodpicker\behaviors\PeriodPickerBehavior;
 use Yii;
 use yii\behaviors\TimestampBehavior;
 use yii\db\ActiveRecord;

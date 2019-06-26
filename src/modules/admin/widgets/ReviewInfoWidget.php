@@ -1,7 +1,7 @@
 <?php
 
 
-namespace common\modules\review\modules\admin\widgets;
+namespace whiteSuit\review\modules\admin\widgets;
 
 
 use yii\base\Widget;

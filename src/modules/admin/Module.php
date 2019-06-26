@@ -1,6 +1,6 @@
 <?php
 
-namespace common\modules\review\modules\admin;
+namespace whiteSuit\review\modules\admin;
 
 /**
  * admin module definition class
